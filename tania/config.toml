@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Tania Camille Ayoub"
+title = "Tania Ayoub"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Tania Ayoub"
-    subtitle = "Architect & Interior Designer"
+    subtitle = "Architecture Design"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "TANIA CAMILLE AYOUB"
-    subtitle = "ARCHITECT & DESIGNER"
+    title = "TANIA AYOUB"
+    subtitle = "ARCHITECTURE DESIGN"
     buttonText = "Check out my projects"
 
 
@@ -92,40 +92,41 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Category #1"
-      subtitle = "subtitle"
-      image = "c1.jfif"
-      url = "blogs/ipsum"
+      title = "Urban Living"
+      subtitle = "Barcelona Apartment"
+      image = "Urban Living/Carme 24 Barcelona/carme (3).jpg"
+      url = "blogs/urban"
     
     [[params.tiles.showcase]]
-      title = "Category #2"
-      subtitle = "subtitle"
-      image = "c2.jpg"
+      title = "Public Spaces"
+      subtitle = "Goldman Sachs Lobby"
+      image = "Public Spaces/Welcoming Spaces/Goldman Saks Lobby/Picture1.png"
       url = "blogs/cusd"
 
     [[params.tiles.showcase]]
-      title = "Cornell Baja Racing"
-      subtitle = "Project Team"
-      image = "baja2.jpg"
+      title = "Suburban Habitat"
+      subtitle = "Long Island Sound Residence"
+      image = "Suburban Habitat/Long Island Sound Residence/Long Island Sound Residence.png"
       url = "blogs/baja"
 
-    [[params.tiles.showcase]]
-      title = "Poloma Analytics"
-      subtitle = "Startup"
-      image = "poloma2.JPG"
-      url = "blogs/poloma"
-
 
     [[params.tiles.showcase]]
-      title = "Elderly Rail Grip"
-      subtitle = "Product Design"
-      image = "wiseup.JPG"
+      title = "Spiritual Places"
+      subtitle = "Padre Hurtado"
+      image = "Spiritual Places/Padre Hurtado/padre1.png"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
-      title = "Life Style"
-      subtitle = "Hobbies"
-      image = "bike.jpg"
+      title = "Institutional"
+      subtitle = "DUOC Foundation"
+      image = "Instituional/DUOC foundation/Picture1.png"
+      url = "blogs/ipsum"
+
+
+    [[params.tiles.showcase]]
+      title = "Hospitality"
+      subtitle = "subtitle"
+      image = "Hospitality/Messilah Beach Resort/Picture2.png"
       url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
